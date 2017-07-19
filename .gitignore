@@ -1,0 +1,19 @@
+# Maven #
+/target/
+
+# IDEA #
+.idea/
+src/main/webapp/.idea/
+src/main/webapp/testData/
+*.iml
+
+# Eclipse #
+.settings/
+.classpath
+.project
+/target/
+
+# jrebel #
+src/main/resources/rebel.xml
+jfinal_demo.log
+*.log*
